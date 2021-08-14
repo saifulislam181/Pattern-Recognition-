@@ -1,0 +1,4 @@
+Accuracy Score :  86.97916666666666 %
+Precision score :  94.8905109489051 %
+Recall Score :  87.83783783783784 %
+F1 Score :  91.22807017543859 %
